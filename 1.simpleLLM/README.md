@@ -65,6 +65,7 @@
 - [Azure OpenAI Service ドキュメント](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/)
 - [azure-ai-inference SDK ドキュメント](https://learn.microsoft.com/ja-jp/python/api/overview/azure/ai-inference-readme)
 - [azure-identity SDK ドキュメント](https://learn.microsoft.com/ja-jp/python/api/overview/azure/identity-readme)
+- [Microsoft ID プラットフォームのドキュメント](https://learn.microsoft.com/ja-jp/entra/identity-platform/)
 
 ---
 
