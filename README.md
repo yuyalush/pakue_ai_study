@@ -6,7 +6,7 @@ AI関連の勉強ソース集
     - simplellmcall1.py : Azure OpenAI SDK + API Key認証を使ったパターン
     - simplellmcall2.py : Azure AI Inference SDK + API Key認証を使ったパターン
     - simplellmcall3.py : Azure AI Inference SDK + Microsoft ID プラットフォーム(サービスプリンシパル)による認証と承認を使ったパターン
-    - [READMEはこちら](./simpleLLM/README.md)
+    - [READMEはこちら](./1.simpleLLM/README.md)
 
 2. シンプルRAGサンプル：2.simpleRAG
 
