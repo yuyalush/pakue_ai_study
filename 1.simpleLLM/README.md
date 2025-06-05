@@ -66,6 +66,7 @@
 - [azure-ai-inference SDK ドキュメント](https://learn.microsoft.com/ja-jp/python/api/overview/azure/ai-inference-readme)
 - [azure-identity SDK ドキュメント](https://learn.microsoft.com/ja-jp/python/api/overview/azure/identity-readme)
 - [Microsoft ID プラットフォームのドキュメント](https://learn.microsoft.com/ja-jp/entra/identity-platform/)
+- [Python 用 Azure ID クライアント ライブラリ](https://github.com/Azure/azure-sdk-for-python/tree/azure-ai-inference_1.0.0b5/sdk/identity/azure-identity)
 
 ---
 
