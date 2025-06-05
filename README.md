@@ -10,3 +10,8 @@ AI関連の勉強ソース集
 
 2. 
 
+---
+
+整理前のメモなど
+
+- [VS CodeのAI Tool KitでAgent Builderを試したメモ](ai-tool-kit_Agent-builder.md)
